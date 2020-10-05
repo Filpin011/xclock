@@ -1,0 +1,4 @@
+#Fri Oct 02 10:17:50 CEST 2020
+base.0=/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

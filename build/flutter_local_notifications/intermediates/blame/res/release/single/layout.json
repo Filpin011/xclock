@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/b6252bb7f30c7dceb20e97dfa6dfae00/core-1.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/b6252bb7f30c7dceb20e97dfa6dfae00/core-1.2.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/b6252bb7f30c7dceb20e97dfa6dfae00/core-1.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/b6252bb7f30c7dceb20e97dfa6dfae00/core-1.2.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/b6252bb7f30c7dceb20e97dfa6dfae00/core-1.2.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/b6252bb7f30c7dceb20e97dfa6dfae00/core-1.2.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/filipposcapin/Documenti/progetti flutter/Clock/clock4/build/flutter_local_notifications/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/filipposcapin/.gradle/caches/transforms-2/files-2.1/333a1c851fce95274a1c02b6cf2bfc8f/media-1.1.0/res/layout/notification_template_big_media.xml"
+    }
+]
